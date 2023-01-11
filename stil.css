@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.thead_hisse{
+    
+}
+table{
+    
+    width: 550px;
+    border: 5px solid rgb(131, 79, 1);
+}
+th{
+    
+    height: 50px;
+    text-align: center;
+    border: 3px solid black;
+    background-color: blanchedalmond;
+    color: black;
+       
+}
+td{
+    height: 40px;
+    text-align: center;
+    border: 2px solid;
+    background-color: blanchedalmond;
+    
+}
